@@ -5,7 +5,9 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h2>Tính tổng S = 1 /1! + 2 /2! + ....+ n / n!</h2>
+	<h2>Khởi tạo mảng $arr = array(1,4,2,6,9,100,45,8,20); <br>
+	Tìm phần tử lớn nhất của mảng !</h2>
+	
 	<h1>Bài làm</h1>
 	<div>
 		<?php 
