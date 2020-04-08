@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h2>Viết chương trình giải phương trình bậc 2: ax^2 + bx + c = 0</h2>
-
+	<h1>Bài làm</h1>
 	<form method="post" action="">
 		Nhập số a: <input type="number" name="giatri_a" value=""/> <br/><br/>
 		Nhập số b: <input type="number" name="giatri_b" value=""/> <br/><br/>
