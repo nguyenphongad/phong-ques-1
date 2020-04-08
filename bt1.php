@@ -42,7 +42,7 @@
 		} else if ($denta < 0){
 			echo "phương trình vô nghiệm";
 		}else {
-			echo "phương trình có nghiệm kép "."x1 = x2= ". $x1;
+			echo "phương trình có nghiệm kép "."x1=x2= ". $x1;
 		}
 	}
 	?>
