@@ -9,8 +9,7 @@
 	<h1>Bài làm</h1>
 	<?php
 
-	echo "Cho n = 100 <br>";
-
+	echo "Cho n = 100. <br><br>";
 	$temp = 1;
 	$sum = 0;
 
