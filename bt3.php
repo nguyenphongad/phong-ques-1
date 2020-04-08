@@ -6,10 +6,10 @@
 </head>
 <body>
 	<h2>In bẳng cửu chương bằng vòng lặp for</h2>
-	
+	<h1>Bài làm</h1>
 	<div>
 		<?php 
-		for ($i=2; $i < 10; $i++){
+		for ($i = 2; $i < 10; $i++){
 			for ($e=1; $e < 10; $e++) { 
 				echo $i.' x ' . $e ."= ".$i*$e ."<br>";
 			}
