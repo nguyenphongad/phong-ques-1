@@ -6,6 +6,7 @@
 </head>
 <body>
 	<h2>Tính tổng S = 1 /1! + 2 /2! + ....+ n / n!</h2>
+	<h1>Bài làm</h1>
 	<div>
 		<?php 
 
