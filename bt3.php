@@ -10,7 +10,7 @@
 	<div>
 		<?php 
 		for ($i = 2; $i < 10; $i++){
-			for ($e=1; $e < 10; $e++) { 
+			for ($e=1; $e < 11; $e++) { 
 				echo $i.' x ' . $e ."= ".$i*$e ."<br>";
 			}
 			echo "<br>";	
