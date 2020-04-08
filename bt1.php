@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<h2>Giải chương trình giải phương trình bậc 2: ax^2 + bx + c = 0</h2>
+	<h2>Viết chương trình giải phương trình bậc 2: ax^2 + bx + c = 0</h2>
 
 	<form method="post" action="">
 		Nhập số a: <input type="number" name="giatri_a" value=""/> <br/><br/>
@@ -44,7 +44,6 @@
 		}else {
 			echo "phương trình có nghiệm kép "."x1 = x2= ". $x1;
 		}
-
 	}
 	?>
 
